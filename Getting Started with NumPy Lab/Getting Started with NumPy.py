@@ -76,7 +76,7 @@ BMI_array = array_weight_kg / pow(array_height_meters, 2)
 # --------------------------------------------
 
 # Your Code Here
-identity = np.ones(BMI_array)
+identity = np.ones(BMI_array.shape)
 
 
 # --------------------------------------------
